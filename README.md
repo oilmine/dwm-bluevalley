@@ -6,3 +6,5 @@ DWM rice based on the color of blue
 <br>
 <br>
 all packages in packages.txt file. install from there.
+<br>
+if you want to do something you dont know how to do, ask ai. it helped me make the script and install japanese keyboard
